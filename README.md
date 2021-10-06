@@ -27,7 +27,7 @@
 
 ### Generate String Using Replit⤵️
 
-<a href="https://replit.com/@SaintAkira/AgI-sRIng-sssIn-1"><img src="https://img.shields.io/badge/run-string__session.py-magenta?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+<a href="https://replit.com/@SaintAkira/AgI-sRIng-sssIn-1?v=1"><img src="https://img.shields.io/badge/run-string__session.py-magenta?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 
 <details>
