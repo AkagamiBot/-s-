@@ -11,16 +11,10 @@
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.6-white?style=for-the-badge&logo=appveyor"/>
     
  
-    </p>
+    <t/p>
 
 
-<p align="center">
-   <a href="https://github.com/AkagamiBot/-s-"><img src="https://telegra.ph/file/47cdc3d607b1a4f55b830.png" alt="Akagami Team " width=400px></a>
-   <br>
-   <br>
-</p>
 
-<h1 align="center"><img src="./resources/extras/GeezFire.gif" width="35px">-s-<img src="./resources/extras/GeezFire.gif" width="35px"></h1>
 
 
 
